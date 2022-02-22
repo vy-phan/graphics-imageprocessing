@@ -1,0 +1,10 @@
+G00958063
+Vy Phan
+CS 551 - Fall 2021
+
+Project: Image Processing
+
+MVP: Thomas Riggers
+
+The issue that I still have is with the blur_box() function and the sharpen() function. The scores of their results are at 98-100 depending on the box's size and the images. I am not sure whether it's because of how I did the arithmetic calculation and converting between the pixel's values differently. The problem persists with the sharpen() function because the blurred images are processed by the blur_box function first.
+
